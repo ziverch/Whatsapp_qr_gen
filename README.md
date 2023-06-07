@@ -17,8 +17,8 @@ It contains two options:
 
 
 # Requirement
-requires qr code package
+requires qr code package.
 
 ```
-pip install qrcode
+pip install -r requirements.txt
 ```
